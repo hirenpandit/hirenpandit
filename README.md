@@ -1,5 +1,4 @@
-### Hi there 👋 this is Hiren Pandit
-- 🔭 Interested in java, python and nodejs
+### Hi there 👋 this is Hiren
 
 <!--
 **hirenpandit/hirenpandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
