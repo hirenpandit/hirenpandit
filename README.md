@@ -1,4 +1,4 @@
-### Hi there 👋 this is Hiren
+### Hi there 👋
 
 <!--
 **hirenpandit/hirenpandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Hiren. I am currently working as Lead Software Engineer at *Mastercard*. Most of my time I spend on designing solutions and exploring new technologies. Technologies I am currently working on:
+- Java
+- Spring | Spring Boot
+- ReactJs
+- Typescript
+
+Technologies that intrest me
+- GO
+- Rust
+- Docker
+- Kubernates
