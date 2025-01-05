@@ -17,6 +17,15 @@ Here are some ideas to get you started:
 Technlogies I have experience with and currently working on
 - Java
 - Spring | Spring Boot
-- ReactJs
+- ReactJS
 - Typescript
+
+Technologies I am curently exploring
 - Go
+- Rust
+- Microfrontend
+- HTMX
+
+Things I am currently building
+- Go + HTMX webapp
+- Exploring microfrontend options
