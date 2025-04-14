@@ -22,10 +22,13 @@ Technlogies I have experience with and currently working on
 
 Technologies I am curently exploring
 - Go
-- Rust
 - Microfrontend
-- HTMX
+- AI Stuff
+    - RAG (Retrieval Augmented Generation)
+    - MCP (Model Context Protocol)
 
 Things I am currently building
-- Go + HTMX webapp
-- Exploring microfrontend options
+- Tanstack form - exploring usecases for dynamic UI generation
+- RAG based chatbot
+- MCP demo project to understand its usecase
+- Chrome plugin + RAG
